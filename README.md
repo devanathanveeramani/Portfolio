@@ -1,18 +1,57 @@
-# React + Vite
+<h1 align="center" id="title">Devanathan_portfolio</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center"><img src="https://github.com/devanathanveeramani/Portfolio/blob/c00f6b12becfc7bc1c8acb528b1aaf9b558008b5/portfolio.png" alt="project-image"></p>
 
-Currently, two official plugins are available:
+<p id="description">A modern animated 3D developer portfolio built with React Three.js TailwindCSS and motion effects — designed to help you stand out and showcase your skills creatively.</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>🚀 Demo</h2>
 
-## React Compiler
+[devanathanportfolio1.netflify.app](devanathanportfolio1.netflify.app)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<h2>Project Screenshots:</h2>
 
-## Expanding the ESLint configuration
+<img src="https://github.com/devanathanveeramani/Portfolio/blob/c00f6b12becfc7bc1c8acb528b1aaf9b558008b5/portfolio.png" alt="project-screenshot" width="400" height="400/">
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h2>🛠️ Installation Steps:</h2>
 
-![Image Alt](image_url). 
+<p>1. Clone the Repository</p>
+
+```
+git clone https://github.com/devanathanveeramani/Portfolio
+```
+
+<p>2. Install Dependencies</p>
+
+```
+npm install
+```
+
+<p>3. Run the Development Server</p>
+
+```
+npm run dev
+```
+
+<h2>🍰 Contribution Guidelines:</h2>
+
+The app will be available at http://localhost:5173.
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   React
+*   Vite
+*   TailwindCSS
+*   React Three Fiber 3D rendering with Three.js in React
+*   Drei
+*   Framer Motion
+*   EmailJS
+*   Aceternity UI
+*   Magic UI
+
+<h2>💖Like my work?</h2>
+
+📬 Contact Me devanathantony@gmail.com
